@@ -78,14 +78,3 @@ Applying Full Masking...
 |         |  Max Mask  | ...     | ...      | ...      | ...       | 8.1250 |
 +---------+------------+---------+----------+----------+-----------+--------+
 ```
-
-## Citation
-If this repository assists you in your research, please consider citing our work:
-```bibtex
-@inproceedings{insert_id,
-  title={...},
-  author={...},
-  booktitle={...},
-  year={2026}
-}
-```
